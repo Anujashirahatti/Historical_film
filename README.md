@@ -82,6 +82,6 @@ Only researchers with the correct **username** and **password** can view archive
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Anujashirahatti/film-archive.git
-cd film-archive
+cd film-archive 
 
 
