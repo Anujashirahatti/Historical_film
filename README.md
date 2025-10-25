@@ -18,7 +18,7 @@ The **Historical Film Archive Management System** is a Python-based application 
 - **Researcher Management**:
   - Add and delete researchers.  
   - Authenticate researchers with username & password.  
-- **Retrieve Film Details** by film ID.  
+- **Retrieve Film Details** by film ID.
 ---
 ### 📈 Keywords (SEO)
 * Historical Film Archive · Classic Film Database · Vintage Movie Collection ·
